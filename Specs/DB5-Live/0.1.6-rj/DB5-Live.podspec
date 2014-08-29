@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = "DB5 with Live Reloading"
   s.license          = 'MIT'
   s.author           = { "Dimitri Stancioff" => "dstancioff@gmail.com" }
-  s.source           = { :git => "https://github.com/obviousengineering/DB5-Live.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://github.com/rjvs/DB5-Live.git", :tag => "#{s.version}" }
   s.homepage           = "http://www.github.com/rjvs/DB5-Live"
   s.platform            = :ios, '7.0'
 
