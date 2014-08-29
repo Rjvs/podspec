@@ -1,0 +1,4 @@
+podspec
+=======
+
+private podspec
